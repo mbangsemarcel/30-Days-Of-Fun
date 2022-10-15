@@ -19,5 +19,5 @@ Tasks -
 <!-- simple markdown table -->
 | Day | Task | Description | Status |
 | --- | --- | --- | --- |
-| 1 | Hello World | https://www.hackerrank.com/challenges/30-hello-world/problem You've Got This! | :heavy_check_mark: |
-| 2 | Data Types | https://www.hackerrank.com/challenges/30-data-types/problem You've Got This! | :white_check_mark: |
+| 1 | Hello World \ Data Types | https://www.hackerrank.com/challenges/30-hello-world/problem You've Got This! | :heavy_check_mark: |
+| 2 | Operators | https://www.hackerrank.com/challenges/30-data-types/problem You've Got This! | :heavy_check_mark: |
