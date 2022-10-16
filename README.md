@@ -1,5 +1,5 @@
 # 30-Days-Of-Fun
-fun coding
+fun coding with marcel
 
 ##### Si tu dors, ta vie dor aussi
 visit <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">
