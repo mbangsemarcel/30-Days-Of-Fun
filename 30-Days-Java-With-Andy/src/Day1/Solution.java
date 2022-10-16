@@ -9,6 +9,7 @@ public class Solution {
 //        get input from STDIN
         String str = scanner.nextLine();
 
+        scanner.close();
         System.out.println(str);
     }
 }
